@@ -30,6 +30,12 @@ Pocket Tour combines cutting-edge AI with a passion for cultural heritage, offer
 3. Let the adventure begin!  
 
 Let’s explore the wonders of Saudi Arabia—one landmark at a time. 🌟  
+---
+Pocket Tour was developed by this wonderful team:
+- **Mohammad Alkhatim** - [LinkedIn](https://www.linkedin.com/in/mohammad-alkhatim-9b1770266/)
+- **Najla Alhomaid** - [LinkedIn](https://www.linkedin.com/in/najla-a-154039226)
+- **Tariq Alshammari** - [LinkedIn](https://www.linkedin.com/in/tariq-alshammari-173a91298/)
+- **Sarah Alenazi** - [LinkedIn](https://www.linkedin.com/in/sarah-alenazi-5a508a247/)
 
 ---  
 _Developed with ❤️ to celebrate the beauty of Saudi Arabia._  
