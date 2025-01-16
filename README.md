@@ -26,7 +26,7 @@ Pocket Tour combines cutting-edge AI with a passion for cultural heritage, offer
 
 ## 📥 Get Started  
 1. Visit the app: [Streamlit](https://pockettourpy-kx8g8qptrzpzpdub5jkykt.streamlit.app/)  
-2. Upload or capture a photo of any Saudi landmark.  
+2. Upload or capture a photo of a Saudi landmark.  
 3. Let the adventure begin!  
 
 Let’s explore the wonders of Saudi Arabia—one landmark at a time. 🌟  
